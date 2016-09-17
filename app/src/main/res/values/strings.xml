@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">DanilDBonline</string>
+    <string name2="app2">DanilDBonline</string> 
+
 <string name1="app">DanilDBonline</string>
 
 </resources>
